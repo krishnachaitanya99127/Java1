@@ -4,6 +4,9 @@ Welcome to Nani Kitchen
 
 Kheer
 pasta
-chicken
+chicken fry
+
+Beans
+Pizza
 
 Thanks
